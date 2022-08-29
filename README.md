@@ -8,5 +8,13 @@ eventos relacionados con "Ciencias de la computación" , en esta pagina web podr
 , ver eventos e inscribirnos. Por otra párte con este proyecto se pretende aplicar los conocimientos aprendidos
 durante el curso de Ingenieria de Software.
 
+## Funcionalidades
+
+## Practicas de código legible aplicadas
+
+## Estilos de programación aplicados
 
 
+## Principios SOLID aplicados
+
+## Conceptos DDD aplicados 
